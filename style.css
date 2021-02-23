@@ -1,0 +1,148 @@
+
+header nav {
+    background: #0d0d0d;
+
+}
+
+header a {
+    font-family: rsu;
+    font-size: 1.4rem;
+    color: white;
+    
+}
+
+header .nav-item:last-child{
+    padding-right: 10.5em;
+}
+
+header .nav-item{
+    padding: 0.9em;
+    
+}
+
+header .navbar-brand{
+    padding-left: 8rem;
+}
+้
+header .nav-link:hover{
+    color: red;
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background: white;
+    min-width: 160px;
+    z-index: 1;
+}
+
+.dropdown-content a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover{
+    background: #ddd;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+h1 {
+    font-family: rsu;
+    font-size: 46px;
+    text-align: auto;
+
+}
+
+h2 {
+    font-family: rsu;
+    font-size: 36px;
+
+}
+
+p {
+    font-family: rsu;
+    font-size: 24px;
+    padding: auto;
+}
+
+footer {
+    font-family: rsu;
+    font-size: 24px;
+
+
+}
+
+a {
+    font-family: rsu;
+}
+
+h5 {
+    font-family: rsu;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#akk {
+    text-align: left;
+}
+
+#akk1 {
+    font-size: 36px;
+}
+
+#hm {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+#j {
+    color: #000;
+}
+
+#f {
+    color: white;
+}
+
+#f1 {
+    color: #000;
+}
+#hm {
+    font-size: 46px;
+}
+
+#ic1 {
+    font-size: 30px;
+    color: blue;
+}
+
+#ic2 {
+    font-size: 30px;
+    color: purple;
+    
+}
+
+#ic3 {
+    font-size: 30px;
+    color: green;
+}
+
+#t1 {
+    font-size: 30px;
+    font-family: rsu;
+    font-weight: bold;
+}
+
+#j1 {
+    background-color: #000;
+    color: white;
+}
+
+#pc {
+    font-size: 50px;
+    font-weight: bold;
+}
